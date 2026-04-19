@@ -1,2 +1,23 @@
-# BMI-Calculator
-<h4>This is my first project as beginner.I cerated a project that is BMI calculator which is use for calculating the health of a person,It calculates that the person is Underweight,Overweight or Normal.</h4>
+# 💪 BMI Calculator
+
+A simple and responsive BMI Calculator built using HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Features
+- Calculate BMI instantly
+- Shows category (Underweight, Normal, Overweight, Obese)
+- Clean UI
+
+---
+
+## 🛠️ Tech Used
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## ▶️ How to Run
+1. Clone the repo
+2. Open index.html in browser
